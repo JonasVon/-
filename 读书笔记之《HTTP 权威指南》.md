@@ -28,7 +28,7 @@
 
 打开谷歌官网，然后通过开发者工具找到这个网页的 `HTML` 文件，找到响应头信息：
 
-![1554287303749](C:\Users\jonas\AppData\Roaming\Typora\typora-user-images\1554287303749.png)
+![](images/1554287303749.png)
 
 `text/html` 就是一个 `MIME` 类型。
 
