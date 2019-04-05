@@ -30,7 +30,7 @@
 
 ![](images/1554287303749.png)
 
-`text/html` 就是一个 `MIME` 类型。
+`text/html` 就是一个 `MIME` 类型。 
 
 ### 4. URI 与 URL
 
